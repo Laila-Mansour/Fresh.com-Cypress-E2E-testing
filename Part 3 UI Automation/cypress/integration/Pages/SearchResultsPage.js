@@ -3,8 +3,9 @@
 class searchResultsPage {
 
     clickOnFirstProduct(FirstItemLoc)
-    { cy.get(FirstItemLoc).should('be.visible').click()
-    cy.wait(5000)}  //Click on the first item in search result
+    {  cy.wait(5000) 
+        cy.get(FirstItemLoc).should('be.visible').click()
+    cy.wait(5000)} //Click on the first item in search result
     
 
 

@@ -12,10 +12,10 @@ class firstProductPage {
 
     }  
 
-    AddItemsToCart(IncreaseQntyBtnLoc,AddToCartBtnLoc,ExitBtnLoc) //Add 3 items to cart
+    AddItemsToCart(IncreaseQntyBtnLoc,AddToCartBtnLoc,ExitBtnLoc) //Add 1 item to cart
     { 
-        cy.get(IncreaseQntyBtnLoc).click()
-        cy.get(IncreaseQntyBtnLoc).click()
+        //cy.get(IncreaseQntyBtnLoc).click()
+        //cy.get(IncreaseQntyBtnLoc).click()
         cy.get(AddToCartBtnLoc).click()
         cy.get(ExitBtnLoc).click()
     }    

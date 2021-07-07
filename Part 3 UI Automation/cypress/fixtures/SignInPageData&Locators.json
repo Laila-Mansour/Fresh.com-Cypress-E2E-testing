@@ -1,0 +1,10 @@
+{
+    "SignInEmail"   : "lailamansourahmed@gmail.com",
+    "SignInPassword" : "Laila12345678",
+    "SignInPageURL" : "https://fresh.com.eg/login",
+
+    "SignInEmailFieldLoc" : "#email",
+    "SignInPasswordFieldLoc" : "#password",
+    "SignInBtnLoc" : ".flex-col > .btn"
+
+}
