@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-//Class Contain all methods that will be used to test Home Page.
+//Class Contain all methods that will be used to test Sign In Page.
 class signInPage {
     navigateToSignInPage(SignInPageURL)
     { cy.visit(SignInPageURL)}  //Navigate to Sign In Page.
