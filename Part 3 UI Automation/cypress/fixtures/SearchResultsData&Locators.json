@@ -1,0 +1,9 @@
+{
+
+    "FirstItemLoc"       : "div.h-full > .ProductCardGrid > :nth-child(1) > .ProductCard__link",
+    "PriceBeforeDisLoc"  : ".mt-4.flex > .text-2xl",
+    "PriceAfterDisLoc"   : ".mt-4.flex > .text-lg",
+    "IncreaseQntyBtnLoc" : "[aria-label=Increase]",
+    "AddToCartBtnLoc"    : "[data-cy=add-to-card]" ,
+    "ExitBtnLoc"         : ".ml-auto > .h-8 > use" 
+}

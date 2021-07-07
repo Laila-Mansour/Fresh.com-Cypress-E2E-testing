@@ -1,0 +1,4 @@
+{
+    "CheckoutPageURI"   : "https://fresh.com.eg/checkout",
+    "DeleteItemsBtnLoc" : ".hidden > .ml-4"
+}
